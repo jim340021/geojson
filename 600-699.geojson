@@ -140,9 +140,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Place": "Chang'an",
         "Polity": "Tang China",
         "People": "Chinese",
@@ -449,9 +446,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#daf609",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Place": "Hangzhou",
         "Polity": "Tang China",
         "People": "Chinese",
@@ -540,7 +534,8 @@
         "Place": "Muaro Jambi",
         "Polity": "Srivijaya",
         "People": "Malay",
-        "Country": "Indonesia"
+        "Country": "Indonesia",
+        "Faith": ""
       },
       "geometry": {
         "type": "Point",
@@ -552,688 +547,171 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Gyeongju",
+        "Polity": "Silla",
+        "People": "Korean",
+        "Country": "Korea",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.7344856909299,
-          -3.015009651041825,
-          7.232308944651449
+          129.20435,
+          35.8534
         ]
-      },
-      "properties": {
-        "name": "Srivijaya"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Liangzhou",
+        "Polity": "Tang China",
+        "People": "Chinese",
+        "Country": "China",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.1242544,
-          15.7641033,
-          44.3678706982675
+          102.709479,
+          37.7987506
         ]
-      },
-      "properties": {
-        "name": "Mỹ Sơn"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Turfan",
+        "Polity": "Turfan",
+        "People": "",
+        "Country": "China",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.28952823324575,
-          18.80965783996435,
-          38.94535358513627
+          89.6409619,
+          42.4151736
         ]
-      },
-      "properties": {
-        "name": "Sri Kestra"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Kannauj",
+        "Polity": "Gupta",
+        "People": "",
+        "Country": "India",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.37937328972684,
-          20.00398079322964,
-          101.9272337830407
+          79.6723849,
+          26.998865
         ]
-      },
-      "properties": {
-        "name": "Beikthano"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Jiaozhou",
+        "Polity": "Tang China",
+        "People": "Chinese",
+        "Country": "China",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          95.8000192658033,
-          22.48186725687865,
-          115.8096489850823
+          119.9238802,
+          36.251396
         ]
-      },
-      "properties": {
-        "name": "Halin"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Yangzhou",
+        "Polity": "Tang China",
+        "People": "Chinese",
+        "Country": "China",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.1543131468776,
-          10.24591369802456,
-          22.32122044062196
+          119.4894129,
+          32.417455
         ]
-      },
-      "properties": {
-        "name": "Oc Eo"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Luoyang",
+        "Polity": "Tang China",
+        "People": "Chinese",
+        "Country": "China",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.0433215,
-          12.871059,
-          0
+          112.4481583,
+          34.6557516
         ]
-      },
-      "properties": {
-        "name": "Isanapura"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Sembiran",
+        "Polity": "Sembiran",
+        "People": "",
+        "Country": "Indonesia",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.9768543,
-          10.9920135,
-          0
+          115.2737281,
+          -8.1335055
         ]
-      },
-      "properties": {
-        "name": "Angkor Borei"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Batujaya",
+        "Polity": "",
+        "People": "",
+        "Country": "Indonesia",
+        "Faith": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.966631,
-          34.283573,
-          0
+          107.1984355,
+          -6.048348
         ]
-      },
-      "properties": {
-        "name": "Chang'an"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Place": "Kedah",
+        "Polity": "Kedah",
+        "People": "Malay",
+        "Country": "Malaysia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.827241,
-          14.8463772,
-          0
+          100.3747667,
+          5.81074
         ]
-      },
-      "properties": {
-        "name": "Shrestapura"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.26938109999999,
-          9.3742743,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Chaiya"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.3608737,
-          8.839381699999999,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Takua Pa"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          78.6799037,
-          10.8307782,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Uraiyur"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.264385,
-          23.12911,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Guangzhou"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.675675,
-          24.87413200000001,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Quanzhou"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.87947439999999,
-          14.4275539,
-          0
-        ]
-      },
-      "properties": {
-        "name": "U Thong"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.0372929,
-          13.8140293,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nakhon Pathom"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.785095,
-          13.8940824,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Phong Tuk"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.1463179,
-          15.4700994,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Si Thep"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.82365329999998,
-          13.4779198,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Khu Bua"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.4225592,
-          13.8887566,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Si Mahosot"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.8510132,
-          21.027964,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Tongking"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.397902,
-          11.529257,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Thánh Địa Cát Tiên"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          109.9069386,
-          -7.205034599999999,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Kalingga"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.6946586,
-          12.818456,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Kanchipuram"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.1944915,
-          12.6207821,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Mahabalipuram"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.15507,
-          30.274084,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hangzhou"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.2951403,
-          6.769975800000001,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Langkasuka"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.400076,
-          11.256939,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Vyadhapura"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.1509569,
-          15.4134885,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Khok Mai Den Ancient City"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.6389243,
-          16.562793,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Ban Kut Ngong"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.3578368,
-          17.7307509,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Phu Phra Bat Historical Park"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.7172809,
-          12.7902492,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Prasat Andet"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          85.4485495,
-          25.1353827,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Nalanda"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          108.2319444,
-          15.8216667,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Simhapura"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          108.3282151,
-          15.878223,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hoi An"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          108.3282151,
-          15.878223,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Hoi An"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.8216261,
-          -1.552136,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Muaro Jambi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.453926,
-          34.620202,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Luoyang"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.412939,
-          32.394209,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Yangzhou"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.412939,
-          32.394209,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Yangzhou"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.189752,
-          42.951303,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Turpan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.6951103,
-          27.0296784,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Kannauj"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.006202,
-          36.285877,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Jiaozhou City"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.2247477,
-          35.8561719,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Gyeongju-si"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.1839024,
-          -6.052682,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Batujaya"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.3684595,
-          6.118396399999999,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Kedah"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.2778317,
-          -8.1269952,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Sembiran"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.3062382,
-          6.9328364,
-          0
-        ]
-      },
-      "properties": {
-        "name": "Laem Pho"
       }
     }
   ]
