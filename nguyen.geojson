@@ -1,0 +1,1224 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Citadel",
+        "title": "First Citadel",
+        "description": "Site of the of the first citadel built by the Nguyen king Nguyễn Ánh in 1790.  It was designed by French engineers with a European (Vauban) defensive architecture and Vietnamese style.  The original citadel was used by rebels under Lê Văn Khôi and was destroyed along with them by Emperor Minh Mạng in 1833.",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia29fpo41",
+        "stroke": "#6c6c6c",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.699999988079071
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.697995,
+              10.786641,
+              0
+            ],
+            [
+              106.696107,
+              10.784639,
+              0
+            ],
+            [
+              106.693038,
+              10.781561,
+              0
+            ],
+            [
+              106.69615,
+              10.778568,
+              0
+            ],
+            [
+              106.697223,
+              10.777598,
+              0
+            ],
+            [
+              106.698253,
+              10.776629,
+              0
+            ],
+            [
+              106.699798,
+              10.775301,
+              0
+            ],
+            [
+              106.706085,
+              10.782362,
+              0
+            ],
+            [
+              106.703166,
+              10.785039,
+              0
+            ],
+            [
+              106.699647,
+              10.788391,
+              0
+            ],
+            [
+              106.697995,
+              10.786641,
+              0
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia3i46a101l7ikm0suzsz3nc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ia3c5b254",
+        "title": "Hai Bà Trưng Street",
+        "description": "Hai Bà Trưng is one of the oldest continuously used streets in Saigon and is now a cramped main artery into and out of the city center.  It is named for the sisters Trưng Trắc and Trưng Nhị.  They led a revolt against China's Han empire in 40AD.  Their memory is still honored today as patriots and as symbols of resistance to Chinese domination.",
+        "marker-size": "large",
+        "marker-color": "#fa946e",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "coordinates": [
+          106.695141,
+          10.78525
+        ],
+        "type": "Point"
+      },
+      "id": "cia3i46a201l8ikm0mceffzne"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishop's House",
+        "title": "Bishop's House",
+        "description": "Approximate location of Pigneau de Béhaine's home in Saigon.  He was a French missionary who sheltered the young Nguyen prince Nguyễn Ánh after the Tây Sơn sacked Saigon and killed most of his family.  He became a trusted advisor to the young king and began the involvement of France in what would become Vietnam.  He died on campaign on behalf of the king in 1799.  The house has been dismantled and rebuilt and now sits in the grounds of the Catholic Archbishop's residence on Nguyễn Đình Chiểu.",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia3cn2875",
+        "stroke": "#6c6c6c",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#f1f075",
+        "fill-opacity": 0.20000000298023224
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.704742,
+              10.787765,
+              0
+            ],
+            [
+              106.704752,
+              10.787,
+              0
+            ],
+            [
+              106.705562,
+              10.787015,
+              0
+            ],
+            [
+              106.705568,
+              10.78778,
+              0
+            ],
+            [
+              106.704742,
+              10.787765,
+              0
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia3i46a301l9ikm03abzwpqd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nguyễn Cừu Đàm's Wall (The Lũy Bán Bích)",
+        "description": "The Nguyen general Nguyễn Cừu Đàm built the wall in 1772 after returning from a punitive expedition fighting the Thais in Cambodia.  The wall, the creeks and the river gave the rough boundaries of what would become Saigon & Cholon.",
+        "id": "marker-ia3cywo16",
+        "stroke": "#f86767",
+        "stroke-width": 5,
+        "stroke-opacity": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.695828,
+            10.792627
+          ],
+          [
+            106.687331,
+            10.791531
+          ],
+          [
+            106.685142,
+            10.788876
+          ],
+          [
+            106.684455,
+            10.786051
+          ],
+          [
+            106.683769,
+            10.782046
+          ],
+          [
+            106.677546,
+            10.782868
+          ],
+          [
+            106.671677,
+            10.785714
+          ],
+          [
+            106.666688,
+            10.785967
+          ],
+          [
+            106.659994,
+            10.771759
+          ],
+          [
+            106.642398,
+            10.740054
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "cia3i46a501laikm003fy538c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King's Palace",
+        "title": "King's Palace",
+        "description": "Nguyễn Ánh stayed here in the early stages of the final defeat of the Tây Sơn, after Saigon had been re-taken in 1790.  After the conquest of all of what is now Vietnam, he moved the capitol from Hanoi to Huế and took the imperial name of Gia Long.",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia3dij1y7",
+        "stroke": "#6c6c6c",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#f1f075",
+        "fill-opacity": 0.20000000298023224
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.698381,
+              10.781751,
+              0
+            ],
+            [
+              106.699476,
+              10.780755,
+              0
+            ],
+            [
+              106.699964,
+              10.781282,
+              0
+            ],
+            [
+              106.700447,
+              10.781751,
+              0
+            ],
+            [
+              106.699385,
+              10.782773,
+              0
+            ],
+            [
+              106.698381,
+              10.781751,
+              0
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia3i46a601lbikm05wysjy2t"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Chinese city",
+        "description": "The city of Chinese merchants and traders, originally called Saigon, became known as Cholon.  It was formed in three blocks and extended along the banks of the canal (later known as the Arroyo Chinois).",
+        "id": "marker-ia3evgpp8",
+        "stroke": "#6c6c6c",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#f86767",
+        "fill-opacity": 0.20000000298023224
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.66716,
+              10.751101
+            ],
+            [
+              106.667032,
+              10.754642
+            ],
+            [
+              106.666903,
+              10.755359
+            ],
+            [
+              106.66686,
+              10.756139
+            ],
+            [
+              106.680765,
+              10.757467
+            ],
+            [
+              106.681151,
+              10.752703
+            ],
+            [
+              106.673641,
+              10.751691
+            ],
+            [
+              106.66716,
+              10.751101
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia3i46a701lcikm023eec0u0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort 1",
+        "title": "Fort 1",
+        "description": "The last set of forts commanding the entrance to Saigon by river.  Destroyed in the French attack of 1865.",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia3fkj9j9",
+        "stroke": "#6c6c6c",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#f86767",
+        "fill-opacity": 0.20000000298023224
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.719409,
+              10.761919,
+              0
+            ],
+            [
+              106.719966,
+              10.76312,
+              0
+            ],
+            [
+              106.718635,
+              10.763773,
+              0
+            ],
+            [
+              106.718015,
+              10.762593,
+              0
+            ],
+            [
+              106.719409,
+              10.761919,
+              0
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia3i46a801ldikm03s57ilgs"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort 2",
+        "title": "Fort 2",
+        "description": "The last set of forts commanding the entrance to Saigon by river.  Destroyed in the French attack of 1865.",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia3fkqvda",
+        "stroke": "#6c6c6c",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#f86767",
+        "fill-opacity": 0.20000000298023224
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.715806,
+              10.758535,
+              0
+            ],
+            [
+              106.717049,
+              10.757792,
+              0
+            ],
+            [
+              106.717821,
+              10.759306,
+              0
+            ],
+            [
+              106.716513,
+              10.760003,
+              0
+            ],
+            [
+              106.715806,
+              10.758535,
+              0
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia3i46a901leikm0sb7l7id4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ia3fqv9gb",
+        "title": "Cách Mạng Tháng Tám Street",
+        "description": "Named for the August revolution at the end of WW2 that marked the establishment of the modern Vietnamese state.  It was known as the road to Tong Kéou.  It continued to Chau Doc and Cambodia.",
+        "marker-size": "large",
+        "marker-color": "#fa946e",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "coordinates": [
+          106.685228,
+          10.775849
+        ],
+        "type": "Point"
+      },
+      "id": "cia3i46ab01lfikm0y7t8tsq7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ia3mymk90",
+        "title": "Former burial site of Bishop Pigneau de Béhaine",
+        "description": "When the bishop died in 1799 of dysentery.  He was given a large state funeral and his remains were interred in a traditional tomb at what was then the edge of Saigon.  In 1983 his remains, along with the remains from other French colonial-era cemeteries, were disinterred, cremated, and returned to France.",
+        "marker-size": "large",
+        "marker-color": "#f86767",
+        "marker-symbol": "cemetery"
+      },
+      "geometry": {
+        "coordinates": [
+          106.661008,
+          10.800432
+        ],
+        "type": "Point"
+      },
+      "id": "cia3nd60h00xdj8m4yiensvy6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rice fields",
+        "description": "A blank area labeled as rice fields in the French map of the time.",
+        "id": "marker-ia3nsvjx0",
+        "stroke": "#6c6c6c",
+        "stroke-width": 0,
+        "stroke-opacity": 0.8999999761581421,
+        "fill": "#7ec9b1",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.677589,
+              10.806159
+            ],
+            [
+              106.666088,
+              10.805485
+            ],
+            [
+              106.662998,
+              10.796464
+            ],
+            [
+              106.667289,
+              10.792164
+            ],
+            [
+              106.67304,
+              10.789044
+            ],
+            [
+              106.678705,
+              10.787105
+            ],
+            [
+              106.68188,
+              10.795199
+            ],
+            [
+              106.688919,
+              10.802365
+            ],
+            [
+              106.677589,
+              10.806159
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia4tgrbk03h9ikm09w26c6gf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rice fields",
+        "description": "A blank area labeled as rice fields in the French map of the time.",
+        "id": "marker-ia3nui891",
+        "stroke": "#6c6c6c",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#7ec9b1",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.690378,
+              10.753883
+            ],
+            [
+              106.690206,
+              10.753715
+            ],
+            [
+              106.695699,
+              10.758353
+            ],
+            [
+              106.702909,
+              10.763243
+            ],
+            [
+              106.709947,
+              10.760123
+            ],
+            [
+              106.714582,
+              10.755064
+            ],
+            [
+              106.713895,
+              10.753968
+            ],
+            [
+              106.710033,
+              10.753715
+            ],
+            [
+              106.70248,
+              10.753883
+            ],
+            [
+              106.696386,
+              10.753799
+            ],
+            [
+              106.690635,
+              10.75363
+            ],
+            [
+              106.690378,
+              10.753883
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia4tgrbl03haikm0rpj1vcsh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Palm tree and banana plantations",
+        "description": "",
+        "id": "marker-ia3nv72c2",
+        "stroke": "#6c6c6c",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#7ec9b1",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.723165,
+              10.781877
+            ],
+            [
+              106.713981,
+              10.780697
+            ],
+            [
+              106.711664,
+              10.775891
+            ],
+            [
+              106.712436,
+              10.769567
+            ],
+            [
+              106.714496,
+              10.766363
+            ],
+            [
+              106.718873,
+              10.764677
+            ],
+            [
+              106.727199,
+              10.763327
+            ],
+            [
+              106.729774,
+              10.77412
+            ],
+            [
+              106.723165,
+              10.781877
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia4tgrbn03hbikm0m4sorjh3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ia3o21pv3",
+        "title": "Chinese pagoda",
+        "description": "An approximate location for the pagoda serving the Chinese city.",
+        "marker-size": "large",
+        "marker-color": "#fa946e",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "coordinates": [
+          106.68231,
+          10.756919
+        ],
+        "type": "Point"
+      },
+      "id": "cia4tgrbo03hcikm0k3hqnb5i"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal",
+        "description": "A canal ran to one of the main citadel gates along what is now Nguyễn Huệ boulevard.",
+        "id": "marker-ia3oeo1w4",
+        "stroke": "#1087bf",
+        "stroke-width": 10,
+        "stroke-opacity": 0.699999988079071
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.706627,
+            10.771348
+          ],
+          [
+            106.700946,
+            10.776534
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "cia4tgrbp03hdikm0n10krmfz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal",
+        "description": "A second, smaller, canal to the citadel",
+        "id": "marker-ia3okodn5",
+        "stroke": "#1087bf",
+        "stroke-width": 10,
+        "stroke-opacity": 0.699999988079071
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.707801,
+            10.779311
+          ],
+          [
+            106.704872,
+            10.780897
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "cia4tgrbq03heikm0am99aysb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Food warehouse",
+        "title": "Food warehouse",
+        "description": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia3rl4d37",
+        "stroke": "#6c6c6c",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#c091e6",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.696343,
+              10.761578,
+              0
+            ],
+            [
+              106.69541,
+              10.762474,
+              0
+            ],
+            [
+              106.694562,
+              10.761557,
+              0
+            ],
+            [
+              106.695517,
+              10.760619,
+              0
+            ],
+            [
+              106.696343,
+              10.761578,
+              0
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia4tgrbs03hfikm0ppbatm7v"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interior Canal",
+        "title": "Interior Canal",
+        "description": "Saigon was once a city of canals and waterways.  Most were filled over time to improve sanitation or extend city streets.",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia4t64ez8",
+        "stroke": "#1087bf",
+        "stroke-width": 10,
+        "stroke-opacity": 0.699999988079071
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            106.69718,
+            10.762526,
+            0
+          ],
+          [
+            106.69518,
+            10.763758,
+            0
+          ],
+          [
+            106.694434,
+            10.764565,
+            0
+          ],
+          [
+            106.693682,
+            10.765225,
+            0
+          ],
+          [
+            106.69312,
+            10.766285,
+            0
+          ],
+          [
+            106.692083,
+            10.767628,
+            0
+          ],
+          [
+            106.692611,
+            10.769187,
+            0
+          ],
+          [
+            106.693576,
+            10.769886,
+            0
+          ],
+          [
+            106.694725,
+            10.77037,
+            0
+          ],
+          [
+            106.696279,
+            10.771022,
+            0
+          ],
+          [
+            106.697866,
+            10.771612,
+            0
+          ],
+          [
+            106.698446,
+            10.77197,
+            0
+          ],
+          [
+            106.699283,
+            10.772371,
+            0
+          ],
+          [
+            106.699905,
+            10.773109,
+            0
+          ],
+          [
+            106.699926,
+            10.773024,
+            0
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "cia4tgrbu03hgikm0djzgeetz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Naval Yards",
+        "description": "Nguyễn Ánh built a fleet of ships by acquiring western vessels from the French and building his own ships.  Vietnamese shipwrights became famous for their workmanship in the 19th century.  The shipyards continued to operate up until the 21st century.  They are slated to be replaced by a luxury hotel and condominium development.",
+        "id": "marker-ia4uezae0",
+        "stroke": "#6c6c6c",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#f86767",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.706986,
+              10.782678
+            ],
+            [
+              106.70823,
+              10.781561
+            ],
+            [
+              106.713552,
+              10.786388
+            ],
+            [
+              106.710398,
+              10.786978
+            ],
+            [
+              106.706986,
+              10.782678
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia4ycbdj021lj5m4ljkef533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mint",
+        "title": "Mint",
+        "description": "This may have been the customs house.",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia4uqied1",
+        "stroke": "#6c6c6c",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#f86767",
+        "fill-opacity": 0.20000000298023224
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.700474,
+              10.773214,
+              0
+            ],
+            [
+              106.700688,
+              10.77274,
+              0
+            ],
+            [
+              106.700913,
+              10.772223,
+              0
+            ],
+            [
+              106.701675,
+              10.772571,
+              0
+            ],
+            [
+              106.701471,
+              10.773003,
+              0
+            ],
+            [
+              106.701235,
+              10.77353,
+              0
+            ],
+            [
+              106.700474,
+              10.773214,
+              0
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia4ycbdk021mj5m4avr2e3w6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plantations",
+        "description": "A blank area labeled as plantations in the French map of the time.",
+        "id": "marker-ia4vfnyn2",
+        "stroke": "#6c6c6c",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#7ec9b1",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.659221,
+              10.759196
+            ],
+            [
+              106.666946,
+              10.781372
+            ],
+            [
+              106.688404,
+              10.771422
+            ],
+            [
+              106.673984,
+              10.762063
+            ],
+            [
+              106.669607,
+              10.758943
+            ],
+            [
+              106.665315,
+              10.7581
+            ],
+            [
+              106.659221,
+              10.759196
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia4ycbdm021nj5m4spoi7bdb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City limits",
+        "title": "Approximate extent of city",
+        "description": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "id": "marker-ia4viu883",
+        "stroke": "#6c6c6c",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#9c89cc",
+        "fill-opacity": 0.4000000059604645
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              106.701321,
+              10.79229,
+              0
+            ],
+            [
+              106.699454,
+              10.790098,
+              0
+            ],
+            [
+              106.697952,
+              10.788328,
+              0
+            ],
+            [
+              106.695356,
+              10.785777,
+              0
+            ],
+            [
+              106.694154,
+              10.786768,
+              0
+            ],
+            [
+              106.692502,
+              10.788117,
+              0
+            ],
+            [
+              106.691966,
+              10.787822,
+              0
+            ],
+            [
+              106.69173,
+              10.7874,
+              0
+            ],
+            [
+              106.693081,
+              10.786093,
+              0
+            ],
+            [
+              106.69424,
+              10.784997,
+              0
+            ],
+            [
+              106.689884,
+              10.780592,
+              0
+            ],
+            [
+              106.686537,
+              10.774373,
+              0
+            ],
+            [
+              106.690914,
+              10.772055,
+              0
+            ],
+            [
+              106.693768,
+              10.77041,
+              0
+            ],
+            [
+              106.695399,
+              10.771043,
+              0
+            ],
+            [
+              106.696944,
+              10.771675,
+              0
+            ],
+            [
+              106.698446,
+              10.772392,
+              0
+            ],
+            [
+              106.699175,
+              10.772982,
+              0
+            ],
+            [
+              106.700034,
+              10.773614,
+              0
+            ],
+            [
+              106.700999,
+              10.771506,
+              0
+            ],
+            [
+              106.702179,
+              10.771802,
+              0
+            ],
+            [
+              106.703488,
+              10.768914,
+              0
+            ],
+            [
+              106.706321,
+              10.769694,
+              0
+            ],
+            [
+              106.706106,
+              10.77235,
+              0
+            ],
+            [
+              106.707007,
+              10.777577,
+              0
+            ],
+            [
+              106.708638,
+              10.782573,
+              0
+            ],
+            [
+              106.711523,
+              10.784279,
+              0
+            ],
+            [
+              106.712651,
+              10.785861,
+              0
+            ],
+            [
+              106.711986,
+              10.786915,
+              0
+            ],
+            [
+              106.709218,
+              10.786768,
+              0
+            ],
+            [
+              106.707737,
+              10.787885,
+              0
+            ],
+            [
+              106.706686,
+              10.789761,
+              0
+            ],
+            [
+              106.706042,
+              10.790941,
+              0
+            ],
+            [
+              106.704497,
+              10.791658,
+              0
+            ],
+            [
+              106.701321,
+              10.79229,
+              0
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "cia4ycbdn021oj5m4e0n1zwhj"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ia4xuceo4",
+        "title": "Naval Yards",
+        "description": "Nguyễn Ánh built a fleet of ships by acquiring western vessels from the French and building his own ships.  Vietnamese shipwrights became famous for their workmanship in the 19th century.  The shipyards continued to operate up until the 21st century.  They are slated to be replaced by a luxury hotel and condominium development.",
+        "marker-size": "large",
+        "marker-color": "#fa946e",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "coordinates": [
+          106.710526,
+          10.784955
+        ],
+        "type": "Point"
+      },
+      "id": "cia4ycbdo021pj5m464o76ogt"
+    }
+  ],
+  "type": "FeatureCollection"
+}
