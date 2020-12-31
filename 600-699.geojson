@@ -175,7 +175,7 @@
       "type": "Feature",
       "properties": {
         "Place": "Chaiya",
-        "Polity": "",
+        "Polity": "Srivijaya",
         "People": "Malay",
         "Country": "Thailand",
         "Faith": ""
@@ -192,7 +192,7 @@
       "type": "Feature",
       "properties": {
         "Place": "Takua Pa",
-        "Polity": "",
+        "Polity": "Srivijaya",
         "People": "Malay",
         "Country": "Thailand",
         "Faith": ""
@@ -464,7 +464,7 @@
       "type": "Feature",
       "properties": {
         "Place": "Langkasuka",
-        "Polity": "",
+        "Polity": "Srivijaya",
         "People": "Malay",
         "Country": "Thailand",
         "Faith": ""
@@ -481,7 +481,7 @@
       "type": "Feature",
       "properties": {
         "Place": "Nalanda",
-        "Polity": "",
+        "Polity": "Kannauj",
         "People": "",
         "Country": "India",
         "Faith": ""
@@ -498,8 +498,8 @@
       "type": "Feature",
       "properties": {
         "Place": "Simhapura",
-        "Polity": "Cham",
-        "People": "Malay",
+        "Polity": "Cham States",
+        "People": "Cham",
         "Country": "Vietnam",
         "Faith": ""
       },
@@ -515,8 +515,8 @@
       "type": "Feature",
       "properties": {
         "Place": "Hoi An",
-        "Polity": "Cham",
-        "People": "Malay",
+        "Polity": "Cham States",
+        "People": "Cham",
         "Country": "Vietnam",
         "Faith": ""
       },
@@ -600,7 +600,7 @@
       "type": "Feature",
       "properties": {
         "Place": "Kannauj",
-        "Polity": "Gupta",
+        "Polity": "Kannauj",
         "People": "",
         "Country": "India",
         "Faith": ""
@@ -704,13 +704,98 @@
         "Place": "Kedah",
         "Polity": "Kedah",
         "People": "Malay",
-        "Country": "Malaysia"
+        "Country": "Malaysia",
+        "Faith": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.3747667,
           5.81074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Kashgar",
+        "Polity": "Kashgar",
+        "People": "Turk",
+        "Country": "China",
+        "Faith": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.163286,
+          37.8529408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Amaravati",
+        "Polity": "Cham States",
+        "People": "Cham",
+        "Country": "Vietnam",
+        "Faith": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2264119,
+          15.82480468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Vijaya",
+        "Polity": "Cham States",
+        "People": "Cham",
+        "Country": "Vietnam",
+        "Faith": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.070963,
+          13.926917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Kauthara",
+        "Polity": "Cham States",
+        "People": "Cham",
+        "Country": "Vietnam",
+        "Faith": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.195222,
+          12.26628935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Place": "Panduranga",
+        "Polity": "Cham States",
+        "People": "Cham",
+        "Country": "Vietnam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.9460352,
+          11.60358385
         ]
       }
     }
